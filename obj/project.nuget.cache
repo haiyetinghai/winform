@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ycoWYBDc19diV50hNJaZVldmNW7tcWHV0huc+DM/LIAuvF7fhdnRopdBdrNu8Gt3IXJ3sCGNdHvKk9UJQ0UCzg==",
+  "dgSpecHash": "HvrLsAhu1yghNdYHAPAuKc2GUTX1dRa4u3Rm/4h51+QaotvY7ajqPkZIu2wdnCNAj+q1TUT0SUHCoqJQBruzcg==",
   "success": true,
-  "projectFilePath": "E:\\Code\\Csharp\\winform\\winform.csproj",
+  "projectFilePath": "E:\\Code\\Csharp\\winform-clone\\winform\\winform.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

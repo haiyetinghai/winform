@@ -11,3 +11,16 @@ E:\Code\Csharp\winform\obj\Debug\netcoreapp3.1\winform.AssemblyInfo.cs
 E:\Code\Csharp\winform\obj\Debug\netcoreapp3.1\winform.dll
 E:\Code\Csharp\winform\obj\Debug\netcoreapp3.1\winform.pdb
 E:\Code\Csharp\winform\obj\Debug\netcoreapp3.1\winform.genruntimeconfig.cache
+E:\Code\Csharp\winform-clone\winform\bin\Debug\netcoreapp3.1\winform.exe
+E:\Code\Csharp\winform-clone\winform\bin\Debug\netcoreapp3.1\winform.deps.json
+E:\Code\Csharp\winform-clone\winform\bin\Debug\netcoreapp3.1\winform.runtimeconfig.json
+E:\Code\Csharp\winform-clone\winform\bin\Debug\netcoreapp3.1\winform.runtimeconfig.dev.json
+E:\Code\Csharp\winform-clone\winform\bin\Debug\netcoreapp3.1\winform.dll
+E:\Code\Csharp\winform-clone\winform\bin\Debug\netcoreapp3.1\winform.pdb
+E:\Code\Csharp\winform-clone\winform\obj\Debug\netcoreapp3.1\winform.csprojAssemblyReference.cache
+E:\Code\Csharp\winform-clone\winform\obj\Debug\netcoreapp3.1\winform.csproj.CoreCompileInputs.cache
+E:\Code\Csharp\winform-clone\winform\obj\Debug\netcoreapp3.1\winform.AssemblyInfoInputs.cache
+E:\Code\Csharp\winform-clone\winform\obj\Debug\netcoreapp3.1\winform.AssemblyInfo.cs
+E:\Code\Csharp\winform-clone\winform\obj\Debug\netcoreapp3.1\winform.dll
+E:\Code\Csharp\winform-clone\winform\obj\Debug\netcoreapp3.1\winform.pdb
+E:\Code\Csharp\winform-clone\winform\obj\Debug\netcoreapp3.1\winform.genruntimeconfig.cache

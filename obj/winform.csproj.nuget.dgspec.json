@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Code\\Csharp\\winform\\winform.csproj": {}
+    "E:\\Code\\Csharp\\winform-clone\\winform\\winform.csproj": {}
   },
   "projects": {
-    "E:\\Code\\Csharp\\winform\\winform.csproj": {
+    "E:\\Code\\Csharp\\winform-clone\\winform\\winform.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Code\\Csharp\\winform\\winform.csproj",
+        "projectUniqueName": "E:\\Code\\Csharp\\winform-clone\\winform\\winform.csproj",
         "projectName": "winform",
-        "projectPath": "E:\\Code\\Csharp\\winform\\winform.csproj",
+        "projectPath": "E:\\Code\\Csharp\\winform-clone\\winform\\winform.csproj",
         "packagesPath": "C:\\Users\\lonely.chen\\.nuget\\packages\\",
-        "outputPath": "E:\\Code\\Csharp\\winform\\obj\\",
+        "outputPath": "E:\\Code\\Csharp\\winform-clone\\winform\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lonely.chen\\AppData\\Roaming\\NuGet\\NuGet.Config"
